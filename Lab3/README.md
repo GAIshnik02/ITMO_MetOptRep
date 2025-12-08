@@ -143,7 +143,12 @@ $$\frac{\partial^2 z}{\partial x \partial y}(1; 1) = 8$$
 
 Строим матрицу Гессе:
 
-$$H = \begin{bmatrix} 16 & 8 \\ 8 & 40 \end{bmatrix}$$
+$$
+H = \left[\begin{array}{cc}
+16 & 8 \\
+8 & 40 
+\end{array}\right]
+$$
 
 $$D_1 = a_{11} > 0, \quad D_2 = 576 > 0$$
 
@@ -153,7 +158,12 @@ $$D_1 = a_{11} > 0, \quad D_2 = 576 > 0$$
 
 Матрица Гессе:
 
-$$H = \begin{bmatrix} 16 & 8 \\ 8 & 40 \end{bmatrix}$$
+$$
+H = \left[\begin{array}{cc}
+16 & 8 \\
+8 & 40 
+\end{array}\right]
+$$
 
 Критерий Сильвестра:
 
