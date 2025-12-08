@@ -2,8 +2,16 @@
 
 ## 1 Лаба
 
-[README.md](Lab1%2FREADME.md)
+[Задачи линейного программирования](Lab1%2FREADME.md)
 
 ## 2 Лаба
 
-[README.md](Lab2%2FREADME.md)
+[Метод ломаных](Lab2%2FREADME.md)
+
+## 3 Лаба
+
+[Метод множителей Лагранжа](Lab3%2FREADME.md)
+
+## 4 Лаба
+
+[Задачи динамического программирования](Lab4%2FREADME.md)
